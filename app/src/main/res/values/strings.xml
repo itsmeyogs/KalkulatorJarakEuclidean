@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kalkulator Euclidean</string>
+    <string name="hitung_jarak_euclidean">Hitung Jarak Euclidean</string>
+    <string name="masukkan_titik">Masukkan Titik</string>
+    <string name="masukkan_titik_baru">Masukkan Titik Baru</string>
+    <string name="hitung">Hitung</string>
+    <string name="submit">Submit</string>
+    <string name="masukkan_jumlah_titik">Masukkan Jumlah Titik</string>
+    <string name="kalkulator_jarak_euclidean">Kalkulator Jarak Euclidean</string>
+</resources>
